@@ -1,0 +1,10 @@
+{
+    "title": "Portfolio - Guy Fedou",
+    "name": "Guy Fedou Montesinos",
+    "subtitle": "Desarrollador web | PHP, HTML, Tailwind CSS | Construyendo experiencias digitales",
+    "skills": "<ul>\r\n                <li>PHP y desarrollo backend<\/li>\r\n                <li>HTML, CSS y Tailwind<\/li>\r\n                <li>JavaScript b\u00e1sico<\/li>\r\n                <li>Creaci\u00f3n de portfolios din\u00e1micos<\/li>\r\n            <\/ul>",
+    "admin_user": "admin",
+    "admin_pass": "$2y$12$\/lEqbbthn\/1TKrPFu3BK9.\/LbZihfkTUnApcet62YFT7huVqHHC62",
+    "profile_image": "\/assets\/img\/04-1.png",
+    "experience": "He trabajado en proyectos personales y colaborativos, creando aplicaciones web, p\u00e1ginas din\u00e1micas y portfolios personalizados para mostrar trabajos de manera profesional. "
+}
