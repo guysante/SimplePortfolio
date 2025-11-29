@@ -1,6 +1,6 @@
 <?php
 $configFile = __DIR__ . '/../data/config.json';
-if (!file_exists($configFile)) {
+if (!file_exists($configFile) || empty(json_decode(file_get_contents($configFile), true))) {
     header("Location: setup.php");
     exit;
 }
