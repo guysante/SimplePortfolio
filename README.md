@@ -10,3 +10,4 @@ Made with Tailwind.
  - [ ] Change skills and experience for dynamic about-cards
  - [ ] Code contact form to send email
  - [ ] Replace JSON storage with a database
+ - [ ] Add custom pages
