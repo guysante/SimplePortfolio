@@ -1,8 +1,9 @@
 ## SimplePortfolio
-A tool for making simple portfolios, creating and showcasing projects 
+A tool for making simple portfolios, creating and showcasing projects.
+Made with Tailwind.
 
 ## TODO
-
+ - [ ] Clear Tailwind classes
  - [ ] Finish template system
  - [ ] Add color palette configuration
  - [ ] Create override system for templates
